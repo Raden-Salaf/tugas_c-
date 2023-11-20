@@ -14,7 +14,7 @@ namespace Latihan1
             String nama,ktp,namakamar="";
             int lama,kamar,harga=0,biaya=0;
             double diskon=0, bayar = 0;
-            Console.WriteLine("Program Menghitung Pembayaran Kamar Hotel Kepu");
+            Console.WriteLine("Program Menghitung Pembayaran Kamar Hotel bungur");
             Console.WriteLine("==============================================");
             
             Console.Write("Masukkan Nama Anda : ");
